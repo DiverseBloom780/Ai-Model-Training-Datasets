@@ -85,4 +85,12 @@
 "Rust","let numbers = vec![1, 2, 3];","Vector example"
 "Rust","match result { Ok(value) => println!(""Result: {}"", value), Err(err) => println!(""Error: {}"", err) }","Error handling"
 "Rust","fn add(x: i32, y: i32) -> i32 { x + y }","Function example"
+"Language","Code","Description"
+"Batch","@echo off","Turn off command echoing"
+"Batch","echo Hello, World!","Print text to console"
+"Batch","set /p name=Enter your name: ","Get user input"
+"Batch","if exist file.txt (echo File exists)","Conditional statement"
+"Batch","for /l %%x in (1,1,5) do echo %%x","Loop example"
+"Batch","copy file.txt file2.txt","Copy file"
+"Batch","del file.txt","Delete file"
 
