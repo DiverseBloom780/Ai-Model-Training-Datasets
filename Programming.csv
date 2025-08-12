@@ -87,7 +87,7 @@
 "Rust","fn add(x: i32, y: i32) -> i32 { x + y }","Function example"
 "Rust","let x: i32 = 5;","Assign a value to a variable"
 "Rust","if x > 0 { println!(""x is positive""); }","Conditional statement"
-"Rust","for i in 1..11 { println!("{}", i); }","Loop example"
+"Rust",'for i in 1..11 { println!("{}", i); }',"Loop example"
 "Rust","fn greet(name: &str) { println!(""Hello, {}!", name); }","Function example"
 "Language","Code","Description"
 "Batch","@echo off","Turn off command echoing"
