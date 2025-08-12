@@ -294,8 +294,3 @@
 "Nim","var x = 5","Assign a value to a variable"
 "Nim","if x > 0: echo ""x is positive""","Conditional statement"
 "Nim","for i in 1..10: echo i","Loop example"
-"Language","Code","Description"
-"Zig","const std = @import(\"std\"); std.debug.print(\"Hello World!\\n\", .{});","Hello World example"
-"Zig","var x: i32 = 5;","Assign a value to a variable"
-"Zig","if (x > 0) std.debug.print(\"x is positive\\n\", .{});","Conditional statement"
-"Zig","var i: i32 = 1; while (i <= 10) : (i += 1) std.debug.print(\"{}\\n\", .{i});","Loop example"
