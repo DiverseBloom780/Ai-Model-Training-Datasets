@@ -1,0 +1,38 @@
+Language,Code,Description
+Python,print("Hello, World!"),Hello World example
+Python,def greet(name): print(f"Hello, {name}!"),Function example
+Python,my_list = [1, 2, 3],List example
+Python,my_dict = {"name": "John", "age": 30},Dictionary example
+Autohotkey,^!z:: MsgBox, Hello, World!,Hotkey example
+Autohotkey,Add(x, y) { return x + y },Function example
+HTML,<h1>Hello, World!</h1>,Basic HTML structure
+HTML,<p>This is a paragraph.</p>,Paragraph example
+Java,System.out.println("Hello, World!");,Hello World example
+Java,public class Person { ... },Class example
+Java,int[] myArray = {1, 2, 3};,Array example
+C#,Console.WriteLine("Hello, World!");,Hello World example
+C#,public void Greet() { ... },Method example
+C#,int[] myArray = {1, 2, 3};,Array example
+C++,std::cout << "Hello, World!" << std::endl;,Hello World example
+C++,int add(int x, int y) { return x + y; },Function example
+C++,int myArray[3] = {1, 2, 3};,Array example
+JavaScript,console.log("Hello, World!");,Hello World example
+JavaScript,function greet(name) { console.log(`Hello, ${name}!`); },Function example
+CSS,body { background-color: #f2f2f2; },Basic CSS styling
+CSS,.header { background-color: #333; color: #fff; },Class example
+Autohotkey,FileRead, contents, example.txt,File input/output
+Autohotkey,StringUpper, str, str,Case conversion
+HTML,<a href="https://www.example.com">Link</a>,Hyperlink example
+HTML,<img src="image.jpg" alt="Image">,Image example
+Java,import java.util.ArrayList;,Importing packages
+Java,try { ... } catch (Exception e) { ... },Error handling
+C#,using System;,Importing namespaces
+C#,try { ... } catch (Exception ex) { ... },Error handling
+C++,#include <iostream>,Including headers
+C++,try { ... } catch (const std::exception& e) { ... },Error handling
+JavaScript,let x = 5;,Variable declaration
+JavaScript,function add(x, y) { return x + y; },Function example
+CSS,.container { display: flex; },Flexbox example
+CSS,@media (max-width: 768px) { ... },Media query example
+SQL,SELECT * FROM customers;,Querying data
+SQL,INSERT INTO customers (name, email) VALUES ('John Doe', 'john@example.com');,Inserting data
