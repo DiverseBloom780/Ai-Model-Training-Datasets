@@ -309,6 +309,7 @@
 "FreeBSD","sysctl kern.osrelease","Get kernel release version"
 "FreeBSD","sysctl hw.model","Get hardware model"
 "Language","Code","Description"
+"FreeBSD","uname -a","Display system information"
 "FreeBSD","portsnap fetch extract","Update ports tree"
 "FreeBSD","make -C /usr/ports/category/port install clean","Install a port"
 "FreeBSD","make -C /usr/ports/category/port deinstall","Deinstall a port"
