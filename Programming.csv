@@ -185,8 +185,8 @@
 "Perl","if ($x > 0) { print ""x is positive\n"" } else { print ""x is not positive\n"" }","Conditional statement"
 "Perl","for (my $i = 0; $i < 10; $i++) { print ""$i\n"" }","Loop example"
 "Language","Code","Description"
-"PHP","echo ""Hello, World!"";","Hello World example, $x = 5","Assign a value to a variable"
+"PHP","echo ""Hello, World!"";","Hello World example"
+"PHP","$x = 5;","Assign a value to a variable"
 "PHP","if ($x > 0) { echo ""x is positive""; } else { echo ""x is not positive""; }","Conditional statement"
 "PHP","for ($i = 0; $i < 10; $i++) { echo ""$i\n""; }","Loop example"
-
 
