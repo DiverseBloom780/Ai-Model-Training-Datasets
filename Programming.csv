@@ -1,5 +1,5 @@
 Language,Code,Description
-Python,'print("Hello, World!")',Hello World example
+Python,'print("Hello, World!")'
 Python,def greet(name): print(f"Hello, {name}!"),Function example
 Python,my_list = [1, 2, 3],List example
 Python,my_dict = {"name": "John", "age": 30},Dictionary example
